@@ -1,0 +1,7 @@
+Alice: 85.0, Passed
+Bob: 71.67, Passed
+Carol: 91.33, Passed
+David: 57.67, Failed
+Class Average: 76.42
+Top student: Carol, Highest average: 91.33
+Lowest student: David, Lowest average: 57.67
